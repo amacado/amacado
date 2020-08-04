@@ -4,6 +4,7 @@
 <div>
   <br />
   <p>
-  I am a passionate full-stack web software developer from Germany. I love complex and challenging projects and whenever I can, I contribute to various open source   projects. If you would like to learn more about me, please feel free to contact me. If you are interested, I will gladly send you a password to access my     skillset, resume and project references. Please understand that these data is confidential and therefore not publicly accessible.
+  I am a passionate full-stack web software developer from Germany. I love complex and challenging projects and whenever I can, I contribute to various open source   projects. If you would like to learn more about me, please feel free to <a href="https://clemensbastian.de">contact me</a>.
   </p>
+  <br />
 </div>

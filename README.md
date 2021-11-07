@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://source.unsplash.com/850x180/?softwaredeveloper" align="center" />
+  <img src="/assets/images/undraw_version_control_re_mg66.svg" align="center" />
 </div>
 <div>
   <br />
